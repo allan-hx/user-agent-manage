@@ -1,11 +1,11 @@
-# Rspack project
+# User Agent Manage
 
 ## Setup
 
 Install the dependencies:
 
 ```bash
-npm install
+pnpm install
 ```
 
 ## Get started
@@ -13,11 +13,11 @@ npm install
 Start the dev server:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 Build the app for production:
 
 ```bash
-npm run build
+pnpm run build
 ```
